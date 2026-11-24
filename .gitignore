@@ -1,0 +1,24 @@
+# Compilados y Maven
+target/
+out/
+*.class
+*.jar
+*.war
+
+# Configuración local completa de IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Variables de entorno y credenciales
+.env
+.env.*
+
+# Archivos temporales de audio y sistema
+*.wav
+*.log
+.DS_Store
+Thumbs.db
+dependency-reduced-pom.xml
